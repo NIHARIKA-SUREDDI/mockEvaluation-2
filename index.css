@@ -11,3 +11,16 @@
     font-size: 20px;
     
 }
+#form{
+    font-size: 15px;
+    background-color: burlywood;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#container{
+    background-color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
