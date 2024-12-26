@@ -1,0 +1,1 @@
+export const baseUrl="https://silk-four-friend.glitch.me/questions"
